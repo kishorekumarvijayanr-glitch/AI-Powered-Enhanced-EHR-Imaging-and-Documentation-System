@@ -1,0 +1,9 @@
+Navigation notes for reference:
+
+"head + position + _ + 0/1":
+ANT - Anterior
+POST - Posterior
+0 - Normal
+1 - Abnormal
+
+Dataset images credit: BS-80K ( mariusmarin/bs-80k ) from Kaggle
